@@ -9,3 +9,4 @@ if grt is not None:
     print("Greatest element:", grt)
 else:
     print("No elements entered.")
+    #end
